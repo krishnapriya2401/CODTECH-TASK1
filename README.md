@@ -1,9 +1,9 @@
 
-NAME:Krishnapriya.S
-COMPANY: CODTECH IT SOLUTIONS PVT.LTD
-ID:CT08DIP
-DOMAIN: Frontend Web Development
-DURATION:12 Dec 2024 to 12 Jan 2025
+**NAME**:Krishnapriya.S
+**COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
+**ID**:CT08DIP
+**DOMAIN**: Frontend Web Development
+**DURATION**:12 Dec 2024 to 12 Jan 2025
 **Overview**:
 I developed a To-Do List application using HTML, CSS, and JavaScript. The app allows users to add, edit, delete, and persist tasks using local storage. It ensures that tasks remain saved even after refreshing the page.
 
