@@ -1,3 +1,4 @@
+
 NAME:Krishnapriya.S
 COMPANY: CODTECH IT SOLUTIONS PVT.LTD
 ID:CT08DIP
@@ -23,4 +24,5 @@ This project strengthened my skills in frontend development and taught me how to
 
 
 
+![Screenshot 2024-12-29 131159](https://github.com/user-attachments/assets/93334c21-96d0-49e2-8ce3-1f9d38fa7d5d)
 
